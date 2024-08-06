@@ -1,17 +1,30 @@
 class Solution {
     public String reverseWords(String s) {
-        // Trim leading and trailing spaces
-        s = s.trim();
-        // Split the string by one or more spaces
-        String[] words = s.split("\\s+");
-        // Reverse the order of words
-        StringBuilder result = new StringBuilder();
-        for (int i = words.length - 1; i >= 0; i--) {
-            result.append(words[i]);
-            if (i > 0) {
-                result.append(" ");
+        String result=new String();
+        int i=0;
+        int n=s.length();
+        while(i<n){
+            while(i<n&&s.charAt(i)==' '){
+                i++;
             }
+            if(i>=n){
+                break;
+            }
+            int j=i+1;
+            while(j<n&&s.charAt(j)!=' '){
+                j++;
+            }
+            if(i<j){
+            String sub=s.substring(i,j);
+            if(result.length()==0){
+                result=sub;
+            }
+            else{
+                result=sub+" "+result;
+            }
+            }
+            i=j+1;
         }
-        return result.toString();
+        return result;
     }
 }

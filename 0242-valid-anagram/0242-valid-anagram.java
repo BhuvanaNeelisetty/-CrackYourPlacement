@@ -1,18 +1,17 @@
 class Solution {
-    public static String sortString(String s1){
-        char c[]=s1.toCharArray();
-        Arrays.sort(c);
-        return new String(c);
-    }
-    public boolean isAnagram(String s1, String s2) {
-        if(s1.length()!=s2.length()) return false;
-        s1=sortString(s1);
-        s2=sortString(s2);
-        for(int i=0;i<s1.length();i++){
-            if(s1.charAt(i)!=s2.charAt(i)){
-                return false;
-            }
-        }
-        return true;
+    public boolean isAnagram(String s, String t) {
+        if(s.length()!=t.length()) return false;
+       int hash1[]=new int[26];
+       int hash2[]=new int[26];
+       for(int i=0;i<s.length();i++){
+        hash1[s.charAt(i)-'a']++;
+       }
+       for(int j=0;j<t.length();j++){
+        hash2[t.charAt(j)-'a']++;
+       }
+       for(int k=0;k<26;k++){
+        if(hash1[k]!=hash2[k]) return false;
+       }
+       return true;
     }
 }

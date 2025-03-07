@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Tree
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/1078-remove-outermost-parentheses) |
 ## Depth-First Search
 |  |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

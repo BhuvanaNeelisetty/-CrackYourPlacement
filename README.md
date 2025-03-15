@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/1078-remove-outermost-parentheses) |
 ## Depth-First Search
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -165,5 +168,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/BhuvanaNeelisetty/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
